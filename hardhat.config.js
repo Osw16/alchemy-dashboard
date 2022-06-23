@@ -21,7 +21,7 @@ module.exports = {
     },
     goerli: {
       url: "https://polygon-mainnet.g.alchemy.com/v2/Mw3v9Tpm1uiiBNGv6dcKX6OL54sq6GoM",
-      accounts: [ "84f28c07f9e7b8d81fcea887e8afcbc7058a57370912bda10de6f94a337134eb" ]
+      accounts: [ "Api key" ]
     }
   },
   etherscan:{
